@@ -3,9 +3,9 @@ Telegram Code To Ban All Group Members very fast
 
 ## VARS
 
-### TELEGRAM_API_ID
-### TELEGRAM_API_HASH
-### TELEGRAM_BOT_TOKEN
+#### TELEGRAM_API_ID
+#### TELEGRAM_API_HASH
+#### TELEGRAM_BOT_TOKEN
 ## DEPLOY TO HEROKU
 
 <p align="center"><a href="https://heroku.com/deploy?template=https://github.com/TeamRaichu/BanAllBot"><img align="center" alt="Heroku" width="220px" src="https://www.nicepng.com/png/full/223-2233246_heroku-logo-salesforce-heroku.png"></p>
