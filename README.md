@@ -1,5 +1,7 @@
 # BanAllBot
 Telegram Code To Ban All Group Members very fast
+##### FORK AND KANG WITH CREDITS CAUSE FIRST PUBLIC SOURCE OF BANALL AF
+
 
 ## VARS
 
@@ -23,6 +25,4 @@ SAMMY - [LWDA HAI](t.me/RaiChuXD)
 
 AKKI - [NALLA NETWORK](t.me/Godfatherakki) 
 
-
-## FORK AND KANG WITH CREDITS CAUSE FIRST PUBLIC SOURCE OF BANALL AF
 
