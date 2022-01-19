@@ -8,7 +8,7 @@ Telegram Code To Ban All Group Members very fast
 
 # CREDIT 📝
 
-Devs For This
+HEROKU - [HERE](https://heroku.com/deploy?template=https://github.com/TeamRaichu/BanAllBot) 
 
 BOO - [CHUTIYA HERE](t.me/Timesisnotwaiting) 
 
