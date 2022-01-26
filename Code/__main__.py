@@ -1,9 +1,10 @@
 import logging
 from . import bot
 from pyrogram import Client, idle
-from pyrogram import Client, filters
-
+from pyrogram import filters
+from Code.helpers.decorators import authorized_users_only
 @bot.on_message(filters.command("banall") & filters.group)
+@authorized_users_only
 def NewChat(bot,message):
     logging.info("new chat {}".format(message.chat.id))
     logging.info("getting memebers from {}".format(message.chat.id))
